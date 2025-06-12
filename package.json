@@ -1,5 +1,5 @@
 {
-  "name": "fsl-cli",
+  "name": "fsl-kb-cli",
   "version": "0.0.1",
   "description": "cli命令行工具，快速构建公司项目",
   "main": "index.js",
