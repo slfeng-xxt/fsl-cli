@@ -6,6 +6,7 @@ const create = require("../lib/create");
 
 program.version("1.0.0");
 
+// TODO:  add more commands
 program
   .command("create <project-name>")
   .description(

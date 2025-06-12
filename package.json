@@ -1,10 +1,10 @@
 {
   "name": "fsl-cli",
-  "version": "1.0.0",
-  "description": "自定义的cli命令行工具",
+  "version": "0.0.1",
+  "description": "cli命令行工具，快速构建公司项目",
   "main": "index.js",
   "bin": {
-    "fsl": "./bin/index.js"
+    "fsl-kb": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
